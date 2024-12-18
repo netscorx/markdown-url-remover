@@ -28,7 +28,7 @@ A sleek, browser-based tool to clean your Markdown content by removing URLs whil
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/markdown-url-remover.git
+git clone https://github.com/netscorx/markdown-url-remover.git
 cd markdown-url-remover
 ```
 
